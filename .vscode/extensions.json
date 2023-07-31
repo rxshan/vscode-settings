@@ -9,12 +9,17 @@
     "antfu.where-am-i",
     "antfu.open-in-github-button",
     "lokalise.i18n-ally",
+    
+    // code inellisense
+    "mrmlnc.vscode-scss",
+    "mrmlnc.vscode-less",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
 
     // themes & icons
     "antfu.icons-carbon",
     "antfu.theme-vitesse",
     "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
 
     // life savers!
     "dbaeumer.vscode-eslint",
@@ -24,16 +29,11 @@
     "streetsidesoftware.code-spell-checker",
 
     // up to you
-    "amodio.tsl-problem-matcher",
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
     "GitHub.vscode-pull-request-github",
-    "mpontus.tab-cycle",
     "naumovs.color-highlight",
-    "richie5um2.vscode-sort-json",
-    "unional.vscode-sort-package-json",
-    "voorjaar.windicss-intellisense",
-    "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "znck.grammarly",
+    "jock.svg",
   ]
 }
